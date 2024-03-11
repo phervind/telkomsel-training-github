@@ -1,5 +1,5 @@
-name = 'hervind phil'
+name = 'Bambang'
 
 print("Hello world", name)
 
-print("User B is Here")
+print("User B is Here now")
